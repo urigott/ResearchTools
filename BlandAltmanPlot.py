@@ -32,5 +32,5 @@ def bland_altman(data1, data2):
     plt.title('Bland-Altman plot')
     plt.show()
 
-# example:
-bland_altman(np.random.normal(size=50), np.random.normal(size=50))
+# # example:
+# bland_altman(np.random.normal(size=50), np.random.normal(size=50))

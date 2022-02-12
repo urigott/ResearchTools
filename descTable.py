@@ -23,12 +23,12 @@ def descTable(data, group = None, r = 1):
         t = (m + ' (' + s + ')')
         return t
 
-# example:
-data = pd.DataFrame({'gender': ['m', 'm', 'm', 'f', 'm', 'f', 'f', 'f'],
-                     'height': [1.76, 1.83, 1.6, 1.65, 1.88, 1.72, 1.59, 1.61],
-                     'weight': [83, 70, 59, 59, 70, 90, 72, 42]
-                     })
-
-display(descTable(data = data,
-                  group = 'gender',
-                  r = 1))
+# # example:
+# data = pd.DataFrame({'gender': ['m', 'm', 'm', 'f', 'm', 'f', 'f', 'f'],
+#                      'height': [1.76, 1.83, 1.6, 1.65, 1.88, 1.72, 1.59, 1.61],
+#                      'weight': [83, 70, 59, 59, 70, 90, 72, 42]
+#                      })
+#
+# display(descTable(data = data,
+#                   group = 'gender',
+#                   r = 1))
