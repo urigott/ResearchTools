@@ -7,6 +7,8 @@ Various research tools
 
 <B>BeforeAfterPlot</B> enables plotting subject's over time change for small sample studies.
 
-<B>Examples notebook</B> is a Jupyter Notebook that show a small example for all methods in this repo.
-
 <B>Cronbah</B> is a wrapper for Pingouin's cronbach_alpha method that produces internal consistency output similar to SPSS's output.
+
+<HR>
+
+<B>Examples notebook</B> is a Jupyter Notebook that show a small example for all methods in this repo.
